@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tiago!</h1>
+<h1 align="center">Hi, I'm Tiago!</h1>
 
 <p align="left">
   I am a developer focused on building a solid foundation in software engineering. Coming from a background in physics and administration, my approach is highly analytical: I believe in deeply understanding the "how" and "why" behind the code.
@@ -11,7 +11,7 @@
 
 ___
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 My current focus is on backend architecture and modern web development, utilizing the tools below to build good solutions.
 
@@ -43,26 +43,25 @@ My current focus is on backend architecture and modern web development, utilizin
 
 ___
 
-### 📊 My Github Statistics
+### My Github Statistics
 
 <p align="left">
-    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api/top-langs/?username=tiago-peron&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_red&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api?username=tiago-peron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shadow_red&count_private=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=tiago-peron&layout=compact&langs_count=8&theme=transparent">
 </p>
 
 
 ___
 
-### 📫 Let's connect?
+### Let's connect?
 
 <p align="left">
     <a href="https://linkedin.com/in/tiago-peron">
-        <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+        <img height="25" src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
     </a>
     <a href="mailto:tperons@gmail.com">
-        <img height="25" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"/>
+        <img height="25" src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="My E-mail"/>
     </a>
     <a href="https://wa.me/5562993252638?text=Hello!%20I%20saw%20your%20Github%20profile.">
-        <img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="My Whatsapp"/>
+        <img height="25" src="https://img.shields.io/badge/WhatsApp-1a1a1a?style=flat-square&logo=whatsapp&logoColor=white" alt="My Whatsapp"/>
     </a>
 </p>
