@@ -2,7 +2,8 @@
 
 Sou desenvolvedor e estou construindo uma base sólida em engenharia de software. Venho da física e
 da administração, e isso me deixou com um jeito bem analítico de trabalhar: gosto de entender como e
-por que o código funciona, não só de fazê-lo funcionar.
+por que o código funciona, não só de fazê-lo funcionar. Também tenho pós-graduação em engenharia de
+software.
 
 Prefiro não depender demais de automações nem de abstrações logo de início. Gosto de dominar
 os fundamentos e ler a documentação a fundo. Meu objetivo é aprender de verdade, escrever código
