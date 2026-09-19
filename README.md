@@ -1,67 +1,63 @@
-<h1 align="center">Hi, I'm Tiago!</h1>
+<h1 align="center">Olá, eu sou o Tiago!</h1>
 
-<p align="left">
-  I am a developer focused on building a solid foundation in software engineering. Coming from a background in physics and administration, my approach is highly analytical: I believe in deeply understanding the "how" and "why" behind the code.
-</p>
+Sou desenvolvedor e estou construindo uma base sólida em engenharia de software. Venho da física e
+da administração, e isso me deixou com um jeito bem analítico de trabalhar: gosto de entender como e
+por que o código funciona, não só de fazê-lo funcionar.
 
-<p align="left">
-  Instead of relying heavily on IDE automations or initial abstractions, I prefer to master the essential fundamentals and delve into the documentation. My ultimate goals are deep learning, clean code, and building maintainable and scalable systems.
-</p>
+Prefiro não depender demais de automações nem de abstrações logo de início. Gosto de dominar
+os fundamentos e ler a documentação a fundo. Meu objetivo é aprender de verdade, escrever código
+limpo e construir sistemas fáceis de manter e de escalar.
 
+---
 
-___
+## Stack Tecnológica & Ferramentas
 
-### Tech Stack & Tools
+Meu foco atual é backend com Java e desenvolvimento web moderno. Estas são as ferramentas que uso no
+dia a dia.
 
-My current focus is on backend architecture and modern web development, utilizing the tools below to build good solutions.
+### Backend & Bancos de Dados
 
-**Backend & Databases:**
-<p align="left">
-    <img height="25" src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb&theme=light" />
-</p>
+<img height="24" src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb&theme=light" alt="Java, Spring, Maven, PostgreSQL, MySQL e MongoDB"/>
 
-* **Java** (Spring Framework, Maven)
-* **Databases:** PostgreSQL, MySQL, MongoDB
+### Frontend
 
-**Frontend:**
-<p align="left">
-    <img height="25" src="https://skillicons.dev/icons?i=javascript,ts,angular,react,html,css&theme=light" />
-</p>
+<img height="24" src="https://skillicons.dev/icons?i=javascript,ts,angular,react,html,css&theme=light" alt="JavaScript, TypeScript, Angular, React, HTML e CSS"/>
 
-* **JavaScript** (Vanilla JS concepts, currently expanding into Angular, TypeScript and React)
-* **HTML & CSS**
+_Base em JavaScript puro, agora expandindo para TypeScript, Angular e React._
 
-**Environment & DevOps:**
-<p align="left">
-    <img height="25" src="https://skillicons.dev/icons?i=docker,git,postman,linux,vscode&theme=light" />
-</p>
+### Ambiente & DevOps
 
-* **Containerization:** Docker
-* **Version Control:** Git
-* **Tools:** Postman, Linux, VS Code, JetBrains
+<img height="24" src="https://skillicons.dev/icons?i=docker,git,postman,linux,vscode&theme=light" alt="Docker, Git, Postman, Linux e VS Code"/>
 
+---
 
-___
+## Agora
 
-### My Github Statistics
+Estou construindo a [marginalia-api](https://github.com/tiago-peron/marginalia-api) em Java e
+aprofundando meus estudos em frontend.
 
-<p align="left">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=tiago-peron&layout=compact&langs_count=8&theme=transparent">
-</p>
+## Em busca de oportunidade
 
+Busco uma vaga de estágio ou júnior em desenvolvimento backend, de preferência com Java e Spring. Se
+você tem uma oportunidade ou quer trocar uma ideia, fico feliz em conversar.
 
-___
+---
 
-### Let's connect?
+<div align="center">
 
-<p align="left">
-    <a href="https://linkedin.com/in/tiago-peron">
-        <img height="25" src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
-    </a>
-    <a href="mailto:tperons@gmail.com">
-        <img height="25" src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="My E-mail"/>
-    </a>
-    <a href="https://wa.me/5562993252638?text=Hello!%20I%20saw%20your%20Github%20profile.">
-        <img height="25" src="https://img.shields.io/badge/WhatsApp-1a1a1a?style=flat-square&logo=whatsapp&logoColor=white" alt="My Whatsapp"/>
+## Vamos nos conectar?
+
+<a href="https://linkedin.com/in/tiago-peron">
+    <img height="36" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
+</a>
+<a href="mailto:tperons@gmail.com">
+    <img height="36" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="E-mail">
+</a>
+
+<p>
+    <a href="https://tiagoperon.com">
+        <img height="36" src="https://img.shields.io/badge/PORTF%C3%93LIO-0f766e?style=for-the-badge&logoColor=white" alt="Portfólio">
     </a>
 </p>
+
+</div>
